@@ -116,7 +116,11 @@ The system provides:
 
 ## Limitations
 
-![Failure](INSERT_FAILURE_CASE_IMAGE)
+![Failure](<img width="1078" height="394" alt="image" src="https://github.com/user-attachments/assets/12774c7f-3eed-4312-b41b-1f8f6b617803" />
+)
+
+![Uploading image.png…]()
+
 
 * Limited to 4 produce types
 * Freshness classification less accurate than type classification
