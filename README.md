@@ -115,8 +115,9 @@ The system provides:
 ---
 
 ## Limitations
+![Failure](<img width="1078" height="394" alt="image" src="https://github.com/user-attachments/assets/68774cf4-6671-488f-b67f-7c4dbd6a6ddb" />)
 
-<img width="1078" height="394" alt="image" src="https://github.com/user-attachments/assets/68774cf4-6671-488f-b67f-7c4dbd6a6ddb" />
+
 
 
 
