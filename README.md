@@ -45,7 +45,8 @@ The system processes an image and outputs:
 
 ### Multi-Task CNN (Classification)
 
-![MultiTask](INSERT_MULTITASK_MODEL_IMAGE)
+<img width="1154" height="614" alt="image" src="https://github.com/user-attachments/assets/32c17f37-6fe2-45b5-acd8-414ecb00d885" />
+
 
 * ResNet-18 backbone (pretrained)
 * Shared feature extractor
@@ -59,6 +60,7 @@ The system processes an image and outputs:
 ### U-Net (Segmentation)
 
 ![UNet](INSERT_UNET_IMAGE)
+<img width="250" height="1588" alt="image" src="https://github.com/user-attachments/assets/b0271515-139a-4da0-ad42-813d065ac791" />
 
 * Encoder-decoder architecture
 * Skip connections for spatial accuracy
@@ -68,7 +70,8 @@ The system processes an image and outputs:
 
 ## Model Output
 
-![Output](INSERT_MODEL_OUTPUT_IMAGE)
+<img width="574" height="648" alt="image" src="https://github.com/user-attachments/assets/55d9a63d-7991-47e9-82a8-bee1474ba5e4" />
+
 
 The system provides:
 
