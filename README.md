@@ -116,10 +116,8 @@ The system provides:
 
 ## Limitations
 
-![Failure](<img width="1078" height="394" alt="image" src="https://github.com/user-attachments/assets/12774c7f-3eed-4312-b41b-1f8f6b617803" />
-)
+<img width="1078" height="394" alt="image" src="https://github.com/user-attachments/assets/68774cf4-6671-488f-b67f-7c4dbd6a6ddb" />
 
-![Uploading image.png…]()
 
 
 * Limited to 4 produce types
